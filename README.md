@@ -36,4 +36,4 @@ public class TelcoPromo {
 }
 ```
 ## Refer to the UML Class Diagram
-![VisitorDesignPattern_UML_Class_Diagram](https://github.com/alea-progaming/visitor-design-pattern/assets/110019094/e036ad58-4b3a-4dc8-b0b2-0a9c6a211ebf)
+![VisitorDesignPattern_UML_Class_Diagram](https://github.com/alea-progaming/visitor-design-pattern/assets/110019094/c0a81bf4-3701-444f-92b8-d588216973a9)
